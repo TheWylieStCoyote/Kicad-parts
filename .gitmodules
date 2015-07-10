@@ -1,0 +1,285 @@
+[submodule "Schematic/kicad-library"]
+	path = Schematic/kicad-library
+	url = https://github.com/KiCad/kicad-library
+[submodule "Footprints/Capacitors_SMD.pretty"]
+	path = Footprints/Capacitors_SMD.pretty
+	url = https://github.com/KiCad/Capacitors_SMD.pretty.git
+[submodule "Footprints/Resistors_SMD.pretty"]
+	path = Footprints/Resistors_SMD.pretty
+	url = https://github.com/KiCad/Resistors_SMD.pretty.git
+[submodule "Footprints/Choke_SMD.pretty"]
+	path = Footprints/Choke_SMD.pretty
+	url = https://github.com/KiCad/Choke_SMD.pretty.git
+[submodule "Footprints/Power_Packages_ThroughHole.pretty"]
+	path = Footprints/Power_Packages_ThroughHole.pretty
+	url = https://github.com/KiCad/Power_Packages_ThroughHole.pretty.git
+[submodule "Footprints/SMD_Packages.pretty"]
+	path = Footprints/SMD_Packages.pretty
+	url = https://github.com/KiCad/SMD_Packages.pretty.git
+[submodule "Footprints/TO_SOT_Packages_THT.pretty"]
+	path = Footprints/TO_SOT_Packages_THT.pretty
+	url = https://github.com/KiCad/TO_SOT_Packages_THT.pretty.git
+[submodule "Footprints/TO_SOT_Packages_SMD.pretty"]
+	path = Footprints/TO_SOT_Packages_SMD.pretty
+	url = https://github.com/KiCad/TO_SOT_Packages_SMD.pretty.git
+[submodule "Footprints/Buttons_Switches_SMD.pretty"]
+	path = Footprints/Buttons_Switches_SMD.pretty
+	url = https://github.com/KiCad/Buttons_Switches_SMD.pretty.git
+[submodule "Footprints/Housings_DIP.pretty"]
+	path = Footprints/Housings_DIP.pretty
+	url = https://github.com/KiCad/Housings_DIP.pretty.git
+[submodule "Footprints/Diodes_SMD.pretty"]
+	path = Footprints/Diodes_SMD.pretty
+	url = https://github.com/KiCad/Diodes_SMD.pretty.git
+[submodule "Footprints/Discret.pretty"]
+	path = Footprints/Discret.pretty
+	url = https://github.com/KiCad/Discret.pretty.git
+[submodule "Footprints/Capacitors_Tantalum_SMD.pretty"]
+	path = Footprints/Capacitors_Tantalum_SMD.pretty
+	url = https://github.com/KiCad/Capacitors_Tantalum_SMD.pretty.git
+[submodule "Footprints/Transistors_TO-220.pretty"]
+	path = Footprints/Transistors_TO-220.pretty
+	url = https://github.com/KiCad/Transistors_TO-220.pretty.git
+[submodule "Footprints/Housings_SOT-23_SOT-143_TSOT-6.pretty"]
+	path = Footprints/Housings_SOT-23_SOT-143_TSOT-6.pretty
+	url = https://github.com/KiCad/Housings_SOT-23_SOT-143_TSOT-6.pretty.git
+[submodule "Footprints/Buttons_Switches_ThroughHole.pretty"]
+	path = Footprints/Buttons_Switches_ThroughHole.pretty
+	url = https://github.com/KiCad/Buttons_Switches_ThroughHole.pretty.git
+[submodule "Footprints/Diodes_ThroughHole.pretty"]
+	path = Footprints/Diodes_ThroughHole.pretty
+	url = https://github.com/KiCad/Diodes_ThroughHole.pretty.git
+[submodule "Footprints/Relays_ThroughHole.pretty"]
+	path = Footprints/Relays_ThroughHole.pretty
+	url = https://github.com/KiCad/Relays_ThroughHole.pretty.git
+[submodule "Footprints/Transistors_SMD.pretty"]
+	path = Footprints/Transistors_SMD.pretty
+	url = https://github.com/KiCad/Transistors_SMD.pretty.git
+[submodule "Footprints/Varistors.pretty"]
+	path = Footprints/Varistors.pretty
+	url = https://github.com/KiCad/Varistors.pretty.git
+[submodule "Footprints/Fuse_Holders_and_Fuses.pretty"]
+	path = Footprints/Fuse_Holders_and_Fuses.pretty
+	url = https://github.com/KiCad/Fuse_Holders_and_Fuses.pretty.git
+[submodule "Footprints/LEDs.pretty"]
+	path = Footprints/LEDs.pretty
+	url = https://github.com/KiCad/LEDs.pretty.git
+[submodule "Footprints/Connectors_Molex.pretty"]
+	path = Footprints/Connectors_Molex.pretty
+	url = https://github.com/KiCad/Connectors_Molex.pretty.git
+[submodule "Footprints/Socket_Strips.pretty"]
+	path = Footprints/Socket_Strips.pretty
+	url = https://github.com/KiCad/Socket_Strips.pretty.git
+[submodule "Footprints/Pin_Headers.pretty"]
+	path = Footprints/Pin_Headers.pretty
+	url = https://github.com/KiCad/Pin_Headers.pretty.git
+[submodule "Footprints/Terminal_Blocks.pretty"]
+	path = Footprints/Terminal_Blocks.pretty
+	url = https://github.com/KiCad/Terminal_Blocks.pretty.git
+[submodule "Footprints/Capacitors_ThroughHole.pretty"]
+	path = Footprints/Capacitors_ThroughHole.pretty
+	url = https://github.com/KiCad/Capacitors_ThroughHole.pretty.git
+[submodule "Footprints/Crystals_Oscillators_SMD.pretty"]
+	path = Footprints/Crystals_Oscillators_SMD.pretty
+	url = https://github.com/KiCad/Crystals_Oscillators_SMD.pretty.git
+[submodule "Footprints/Fiducials.pretty"]
+	path = Footprints/Fiducials.pretty
+	url = https://github.com/KiCad/Fiducials.pretty.git
+[submodule "Footprints/Displays_7-Segment.pretty"]
+	path = Footprints/Displays_7-Segment.pretty
+	url = https://github.com/KiCad/Displays_7-Segment.pretty.git
+[submodule "Footprints/Connect.pretty"]
+	path = Footprints/Connect.pretty
+	url = https://github.com/KiCad/Connect.pretty.git
+[submodule "Footprints/Choke_Toroid_ThroughHole.pretty"]
+	path = Footprints/Choke_Toroid_ThroughHole.pretty
+	url = https://github.com/KiCad/Choke_Toroid_ThroughHole.pretty.git
+[submodule "Footprints/Symbols.pretty"]
+	path = Footprints/Symbols.pretty
+	url = https://github.com/KiCad/Symbols.pretty.git
+[submodule "Footprints/Housings_SIP.pretty"]
+	path = Footprints/Housings_SIP.pretty
+	url = https://github.com/KiCad/Housings_SIP.pretty.git
+[submodule "Footprints/Mounting_Holes.pretty"]
+	path = Footprints/Mounting_Holes.pretty
+	url = https://github.com/KiCad/Mounting_Holes.pretty.git
+[submodule "Footprints/Housings_DFN_QFN.pretty"]
+	path = Footprints/Housings_DFN_QFN.pretty
+	url = https://github.com/KiCad/Housings_DFN_QFN.pretty.git
+[submodule "Footprints/Transformers_CHK.pretty"]
+	path = Footprints/Transformers_CHK.pretty
+	url = https://github.com/KiCad/Transformers_CHK.pretty.git
+[submodule "Footprints/Microwave.pretty"]
+	path = Footprints/Microwave.pretty
+	url = https://github.com/KiCad/Microwave.pretty.git
+[submodule "Footprints/Converters_DCDC_ACDC.pretty"]
+	path = Footprints/Converters_DCDC_ACDC.pretty
+	url = https://github.com/KiCad/Converters_DCDC_ACDC.pretty.git
+[submodule "Footprints/Wire_Pads.pretty"]
+	path = Footprints/Wire_Pads.pretty
+	url = https://github.com/KiCad/Wire_Pads.pretty.git
+[submodule "Footprints/Valves.pretty"]
+	path = Footprints/Valves.pretty
+	url = https://github.com/KiCad/Valves.pretty.git
+[submodule "Footprints/Transistors_TO-247.pretty"]
+	path = Footprints/Transistors_TO-247.pretty
+	url = https://github.com/KiCad/Transistors_TO-247.pretty.git
+[submodule "Footprints/Transistors_OldSowjetAera.pretty"]
+	path = Footprints/Transistors_OldSowjetAera.pretty
+	url = https://github.com/KiCad/Transistors_OldSowjetAera.pretty.git
+[submodule "Footprints/Transformers_SMPS_ThroughHole.pretty"]
+	path = Footprints/Transformers_SMPS_ThroughHole.pretty
+	url = https://github.com/KiCad/Transformers_SMPS_ThroughHole.pretty.git
+[submodule "Footprints/Sockets_WAGO734.pretty"]
+	path = Footprints/Sockets_WAGO734.pretty
+	url = https://github.com/KiCad/Sockets_WAGO734.pretty.git
+[submodule "Footprints/Sockets.pretty"]
+	path = Footprints/Sockets.pretty
+	url = https://github.com/KiCad/Sockets.pretty.git
+[submodule "Footprints/Sockets_PGA.pretty"]
+	path = Footprints/Sockets_PGA.pretty
+	url = https://github.com/KiCad/Sockets_PGA.pretty.git
+[submodule "Footprints/Sockets_MOLEX_KK-System.pretty"]
+	path = Footprints/Sockets_MOLEX_KK-System.pretty
+	url = https://github.com/KiCad/Sockets_MOLEX_KK-System.pretty.git
+[submodule "Footprints/Sockets_Mini-Universal.pretty"]
+	path = Footprints/Sockets_Mini-Universal.pretty
+	url = https://github.com/KiCad/Sockets_Mini-Universal.pretty.git
+[submodule "Footprints/Sockets_DIP.pretty"]
+	path = Footprints/Sockets_DIP.pretty
+	url = https://github.com/KiCad/Sockets_DIP.pretty.git
+[submodule "Footprints/Sockets_BNC.pretty"]
+	path = Footprints/Sockets_BNC.pretty
+	url = https://github.com/KiCad/Sockets_BNC.pretty.git
+[submodule "Footprints/Resistors_Universal.pretty"]
+	path = Footprints/Resistors_Universal.pretty
+	url = https://github.com/KiCad/Resistors_Universal.pretty.git
+[submodule "Footprints/Resistors_ThroughHole.pretty"]
+	path = Footprints/Resistors_ThroughHole.pretty
+	url = https://github.com/KiCad/Resistors_ThroughHole.pretty.git
+[submodule "Footprints/Printtrafo_CHK.pretty"]
+	path = Footprints/Printtrafo_CHK.pretty
+	url = https://github.com/KiCad/Printtrafo_CHK.pretty.git
+[submodule "Footprints/Power_Packages_SMD.pretty"]
+	path = Footprints/Power_Packages_SMD.pretty
+	url = https://github.com/KiCad/Power_Packages_SMD.pretty.git
+[submodule "Footprints/Power_Integrations.pretty"]
+	path = Footprints/Power_Integrations.pretty
+	url = https://github.com/KiCad/Power_Integrations.pretty.git
+[submodule "Footprints/Potentiometers.pretty"]
+	path = Footprints/Potentiometers.pretty
+	url = https://github.com/KiCad/Potentiometers.pretty.git
+[submodule "Footprints/PFF_PSF_PSS_Leadforms.pretty"]
+	path = Footprints/PFF_PSF_PSS_Leadforms.pretty
+	url = https://github.com/KiCad/PFF_PSF_PSS_Leadforms.pretty.git
+[submodule "Footprints/Pentawatts.pretty"]
+	path = Footprints/Pentawatts.pretty
+	url = https://github.com/KiCad/Pentawatts.pretty.git
+[submodule "Footprints/Oscillators.pretty"]
+	path = Footprints/Oscillators.pretty
+	url = https://github.com/KiCad/Oscillators.pretty.git
+[submodule "Footprints/Oscillator-Modules.pretty"]
+	path = Footprints/Oscillator-Modules.pretty
+	url = https://github.com/KiCad/Oscillator-Modules.pretty.git
+[submodule "Footprints/Opto-Devices.pretty"]
+	path = Footprints/Opto-Devices.pretty
+	url = https://github.com/KiCad/Opto-Devices.pretty.git
+[submodule "Footprints/Oddities.pretty"]
+	path = Footprints/Oddities.pretty
+	url = https://github.com/KiCad/Oddities.pretty.git
+[submodule "Footprints/NF-Transformers_ETAL.pretty"]
+	path = Footprints/NF-Transformers_ETAL.pretty
+	url = https://github.com/KiCad/NF-Transformers_ETAL.pretty.git
+[submodule "Footprints/Muonde.pretty"]
+	path = Footprints/Muonde.pretty
+	url = https://github.com/KiCad/Muonde.pretty.git
+[submodule "Footprints/Mechanical_Sockets.pretty"]
+	path = Footprints/Mechanical_Sockets.pretty
+	url = https://github.com/KiCad/Mechanical_Sockets.pretty.git
+[submodule "Footprints/Measurement_Scales.pretty"]
+	path = Footprints/Measurement_Scales.pretty
+	url = https://github.com/KiCad/Measurement_Scales.pretty.git
+[submodule "Footprints/Measurement_Points.pretty"]
+	path = Footprints/Measurement_Points.pretty
+	url = https://github.com/KiCad/Measurement_Points.pretty.git
+[submodule "Footprints/Labels.pretty"]
+	path = Footprints/Labels.pretty
+	url = https://github.com/KiCad/Labels.pretty.git
+[submodule "Footprints/IR-DirectFETs.pretty"]
+	path = Footprints/IR-DirectFETs.pretty
+	url = https://github.com/KiCad/IR-DirectFETs.pretty.git
+[submodule "Footprints/Inductors.pretty"]
+	path = Footprints/Inductors.pretty
+	url = https://github.com/KiCad/Inductors.pretty.git
+[submodule "Footprints/Inductors_NEOSID.pretty"]
+	path = Footprints/Inductors_NEOSID.pretty
+	url = https://github.com/KiCad/Inductors_NEOSID.pretty.git
+[submodule "Footprints/Housings_TO-92.pretty"]
+	path = Footprints/Housings_TO-92.pretty
+	url = https://github.com/KiCad/Housings_TO-92.pretty.git
+[submodule "Footprints/Housings_TO-78.pretty"]
+	path = Footprints/Housings_TO-78.pretty
+	url = https://github.com/KiCad/Housings_TO-78.pretty.git
+[submodule "Footprints/Housings_TO-50.pretty"]
+	path = Footprints/Housings_TO-50.pretty
+	url = https://github.com/KiCad/Housings_TO-50.pretty.git
+[submodule "Footprints/Housings_TO-12_TO-18_TO-42_TO-43.pretty"]
+	path = Footprints/Housings_TO-12_TO-18_TO-42_TO-43.pretty
+	url = https://github.com/KiCad/Housings_TO-12_TO-18_TO-42_TO-43.pretty.git
+[submodule "Footprints/Housings_SSOP.pretty"]
+	path = Footprints/Housings_SSOP.pretty
+	url = https://github.com/KiCad/Housings_SSOP.pretty.git
+[submodule "Footprints/Housings_SOT.pretty"]
+	path = Footprints/Housings_SOT.pretty
+	url = https://github.com/KiCad/Housings_SOT.pretty.git
+[submodule "Footprints/Housings_SOT-89.pretty"]
+	path = Footprints/Housings_SOT-89.pretty
+	url = https://github.com/KiCad/Housings_SOT-89.pretty.git
+[submodule "Footprints/Housings_SOIC.pretty"]
+	path = Footprints/Housings_SOIC.pretty
+	url = https://github.com/KiCad/Housings_SOIC.pretty.git
+[submodule "Footprints/Housings_ROHM.pretty"]
+	path = Footprints/Housings_ROHM.pretty
+	url = https://github.com/KiCad/Housings_ROHM.pretty.git
+[submodule "Footprints/Housings_QFP.pretty"]
+	path = Footprints/Housings_QFP.pretty
+	url = https://github.com/KiCad/Housings_QFP.pretty.git
+[submodule "Footprints/Heatsinks.pretty"]
+	path = Footprints/Heatsinks.pretty
+	url = https://github.com/KiCad/Heatsinks.pretty.git
+[submodule "Footprints/Hall-Effect_Transducers_LEM.pretty"]
+	path = Footprints/Hall-Effect_Transducers_LEM.pretty
+	url = https://github.com/KiCad/Hall-Effect_Transducers_LEM.pretty.git
+[submodule "Footprints/Filters_HF_Coils_NEOSID.pretty"]
+	path = Footprints/Filters_HF_Coils_NEOSID.pretty
+	url = https://github.com/KiCad/Filters_HF_Coils_NEOSID.pretty.git
+[submodule "Footprints/EuroBoard_Outline.pretty"]
+	path = Footprints/EuroBoard_Outline.pretty
+	url = https://github.com/KiCad/EuroBoard_Outline.pretty.git
+[submodule "Footprints/Divers.pretty"]
+	path = Footprints/Divers.pretty
+	url = https://github.com/KiCad/Divers.pretty.git
+[submodule "Footprints/Display.pretty"]
+	path = Footprints/Display.pretty
+	url = https://github.com/KiCad/Display.pretty.git
+[submodule "Footprints/Crystals.pretty"]
+	path = Footprints/Crystals.pretty
+	url = https://github.com/KiCad/Crystals.pretty.git
+[submodule "Footprints/Choke_Radial_ThroughHole.pretty"]
+	path = Footprints/Choke_Radial_ThroughHole.pretty
+	url = https://github.com/KiCad/Choke_Radial_ThroughHole.pretty.git
+[submodule "Footprints/Choke_Common-Mode_Wurth.pretty"]
+	path = Footprints/Choke_Common-Mode_Wurth.pretty
+	url = https://github.com/KiCad/Choke_Common-Mode_Wurth.pretty.git
+[submodule "Footprints/Choke_Axial_ThroughHole.pretty"]
+	path = Footprints/Choke_Axial_ThroughHole.pretty
+	url = https://github.com/KiCad/Choke_Axial_ThroughHole.pretty.git
+[submodule "Footprints/Capacitors_Elko_ThroughHole.pretty"]
+	path = Footprints/Capacitors_Elko_ThroughHole.pretty
+	url = https://github.com/KiCad/Capacitors_Elko_ThroughHole.pretty.git
+[submodule "Footprints/Buzzers_Beepers.pretty"]
+	path = Footprints/Buzzers_Beepers.pretty
+	url = https://github.com/KiCad/Buzzers_Beepers.pretty.git
+[submodule "Footprints/Air_Coils_SML_NEOSID.pretty"]
+	path = Footprints/Air_Coils_SML_NEOSID.pretty
+	url = https://github.com/KiCad/Air_Coils_SML_NEOSID.pretty.git
